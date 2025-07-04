@@ -147,6 +147,9 @@
     .text-block .dresscode {
         margin: 2rem 0 1rem 0;
         text-align: center;
+        font-family: 'Times New Roman', serif;
+         font-style: italic;
+        color: #8b4513;
     }
 
     .text-block .dresscode-title {
